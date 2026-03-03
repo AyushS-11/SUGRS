@@ -1,3 +1,4 @@
+// Fixed: Removed duplicate display property in style object
 import { useState, useEffect } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 import { getComplaint, updateStatus, uploadImage } from '../../api/client.js';
