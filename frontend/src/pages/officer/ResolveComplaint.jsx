@@ -125,7 +125,7 @@ export default function ResolveComplaint() {
                         </div>
 
                         <div style={{ marginBottom: 20 }}>
-                            <label style={{ fontSize: 11, fontWeight: 700, color: 'var(--text-muted)', display: 'block', marginBottom: 6, display: 'flex', alignItems: 'center', gap: 6 }}>
+                            <label style={{ fontSize: 11, fontWeight: 700, color: 'var(--text-muted)', display: 'flex', marginBottom: 6, alignItems: 'center', gap: 6 }}>
                                 <Icon name="camera" size={12} color="var(--text-muted)" /> UPLOAD PROOF
                             </label>
                             <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
